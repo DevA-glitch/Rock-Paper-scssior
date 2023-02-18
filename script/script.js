@@ -1,4 +1,4 @@
-'use strict'
++'use strict'
 
 const userScoreEl = document.getElementById('user-score')
 const compScoreEl = document.getElementById('comp-score')
